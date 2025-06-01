@@ -15,6 +15,14 @@
 - [Git](https://git-scm.com/) installed (for Git installation method)
 - Basic understanding of UI/UX design principles
 - Project with design requirements (web, mobile, or cross-platform)
+- **Familiarity with Memory Bank Commands**: Review the [original memory bank documentation](https://github.com/vanzan01/cursor-memory-bank) to understand how to use prompt commands like:
+  - `VAN` - Versatile Assistant Navigator
+  - `PLAN` - Project planning and architecture
+  - `CREATIVE` - Creative thinking and ideation
+  - `DESIGN` - UI/UX design work (enhanced in this version)
+  - `IMPLEMENT` - Code implementation
+  - `REFLECT` - Review and reflection
+  - `ARCHIVE` - Documentation and archiving
 
 ### Installation Methods
 
