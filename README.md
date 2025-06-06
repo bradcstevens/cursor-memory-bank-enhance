@@ -33,7 +33,7 @@
    cd your-project-directory
    
    # Clone the enhanced memory bank
-   git clone https://github.com/madebyaris/cursor-memory-bank-enhance.git temp-memory-bank
+   git clone https://github.com/bradcstevens/cursor-memory-bank-enhance.git temp-memory-bank
    
    # Copy the files to your project root
    cp -r temp-memory-bank/.cursor .
@@ -47,7 +47,7 @@
 2. **Alternative: Clone to a separate directory and copy**:
    ```bash
    # Clone to a separate location
-   git clone https://github.com/madebyaris/cursor-memory-bank-enhance.git
+   git clone https://github.com/bradcstevens/cursor-memory-bank-enhance.git
    
    # Copy files to your project
    cp -r cursor-memory-bank-enhance/.cursor /path/to/your/project/
@@ -57,7 +57,7 @@
 
 #### Method 2: Download ZIP
 1. **Download the repository**:
-   - Go to https://github.com/madebyaris/cursor-memory-bank-enhance/
+   - Go to https://github.com/bradcstevens/cursor-memory-bank-enhance/
    - Click "Code" → "Download ZIP"
    - Extract the ZIP file
 
@@ -69,7 +69,7 @@
 #### Method 3: Git Submodule (For Advanced Users)
 ```bash
 # Add as a submodule
-git submodule add https://github.com/madebyaris/cursor-memory-bank-enhance.git memory-bank-enhance
+git submodule add https://github.com/bradcstevens/cursor-memory-bank-enhance.git memory-bank-enhance
 
 # Create symbolic links (Unix/macOS)
 ln -s memory-bank-enhance/.cursor .cursor
@@ -451,7 +451,7 @@ The system guides you through:
 - **Accessibility Excellence**: `.cursor/rules/isolation_rules/Core/accessibility-excellence.mdc`
 
 #### Community Support
-- **Enhanced Memory Bank Repository**: https://github.com/madebyaris/cursor-memory-bank-enhance/
+- **Enhanced Memory Bank Repository**: https://github.com/bradcstevens/cursor-memory-bank-enhance/
 - **Original Memory Bank**: https://github.com/vanzan01/cursor-memory-bank
 - **Cursor IDE Documentation**: https://docs.cursor.com/
 - **Design System Resources**: https://designsystemsrepo.com/
